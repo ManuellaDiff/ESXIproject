@@ -1,2 +1,4 @@
  pyvmomi==8.0.3.0.1
+ pyvim==3.0.3 
+pydotenv==0.0.7
   

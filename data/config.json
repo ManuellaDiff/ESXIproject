@@ -1,0 +1,10 @@
+{
+    "vm_name": "VM",
+    "template_vm":"VM1",
+    "num_instances": 2,
+    "memory": 128,
+    "cpu": 2,
+    "disk_size": 20,
+    "network": "VM Network",
+    "ova_path": "Documents/tiny.ova" 
+}
